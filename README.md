@@ -1,6 +1,6 @@
 ### Introducción a la Ciencia de Datos 2023
 ### Entregas de Laboratorios
-### Grupo 1: ignacio Corrales
+### Grupo 1: Ignacio Corrales
 
 Este repositorio contiene dos carpetas contiene las entregas a los trabajos de laboratorio propuestos en el curso:
 - Tarea 1 (Los archivos se encuentran en el directorio raiz):
