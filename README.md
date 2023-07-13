@@ -10,4 +10,8 @@ Este repositorio contiene las entregas a los trabajos de laboratorio propuestos 
 - Tarea 2 (directorio Tarea 2, dentro del directorio raiz)
 
   - Informe Tarea 2 - Grupo 1.pdf -> Informe final de la tarea 2.
-  - shakespeare_tarea_2.ipynb -> Notebook que sustenta los cálculos y gráficas que aparecen en el informe. 
+  - shakespeare_tarea_2.ipynb -> Notebook que sustenta los cálculos y gráficas que aparecen en el informe.
+ 
+- Tarea Final (directorio Tarea Final, dentro del directorio raiz)
+
+  - Informe Tarea Final - Grupo 1.pdf -> Informe final de la tarea final.
